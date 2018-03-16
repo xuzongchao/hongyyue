@@ -9,15 +9,15 @@
             <array>
                 <dict>
                     <key>kind</key>
-                    <string>software-package</string>
+                    <string>com.richang.hongyue</string>
                     <key>url</key>
-                    <string>请填上你的ipa下载地址(比如:http://127.0.0.1/app.ipa)</string>
+                    <string>http://192.168.3.102/app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>请填上你的开发者证书用户名</string>
+    <string>xuzongchao</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
