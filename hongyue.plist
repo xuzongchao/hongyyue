@@ -11,19 +11,19 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://hy.hbarjx.cn/download/data/hy2.ipa</string>  
+                    <string>https://raw.githubusercontent.com/xuzongchao/hongyyue/master/hy2.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
                     <string>display-image</string>  
                     <key>url</key>  
-                    <string>http://hy.hbarjx.cn/download/data/hyic.png</string>  
+                    <string>https://raw.githubusercontent.com/xuzongchao/hongyyue/master/icon.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
                     <string>full-size-image</string>  
                     <key>url</key>  
-                    <string>http://hy.hbarjx.cn/download/data/hyic.png</string>  
+                    <string>https://raw.githubusercontent.com/xuzongchao/hongyyue/master/icon.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
