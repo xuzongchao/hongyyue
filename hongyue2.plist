@@ -25,29 +25,7 @@
                 <key>title</key>  
                 <string>红月2</string>  
             </dict>
-	    <key>thinned-assets</key>
-	        <array>
-		    <dict>
-			    <key>kind</key>
-		            <string>software-package</string>
-			    <key>url</key>
-			    <string>http://hy.hbarjx.cn/download/data/iphoneTest3.ipa</string>
-			    <key>variantIds</key>
-					    <array>
-						    <string>iPhone10,1</string>
-						    <string>iPhone8,1</string>
-						    <string>iPhone9,3</string>
-						    <string>iPhone9,1</string>
-						    <string>iPod7,1</string>
-						    <string>iPhone7,2</string>
-						    <string>iPhone8,4</string>
-						    <string>iPhone10,4</string>
-						    <string>iPhone6,2</string>
-						    <string>iPhone6,1</string>
-			    			</array>
-		     </dict>
-		</array>
-        </dict>  
+	    </dict>	
     </array>  
 </dict>  
 </plist>
