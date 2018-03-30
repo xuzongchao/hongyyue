@@ -1,3 +1,20 @@
+Skip to content
+ 
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @xuzongchao
+Sign out
+1
+0 0 xuzongchao/hongyyue
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+hongyyue/hongyue.plist
+ca2859e  7 days ago
+@xuzongchao xuzongchao Update hongyue.plist
+     
+44 lines (43 sloc)  1.42 KB
 <?xml version="1.0" encoding="UTF-8"?>  
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
 <plist version="1.0">  
@@ -13,6 +30,18 @@
                     <key>url</key>  
                     <string>http://hy.hbarjx.cn/download/data/iphoneTest4.ipa</string>  
                 </dict>  
+                <dict>
+		    <key>kind</key>
+		    <string>display-image</string>
+		    <key>url</key>
+		    <string>https://raw.githubusercontent.com/xuzongchao/hongyyue/master/icon1.png</string>
+		</dict>
+		<dict>
+		    <key>kind</key>
+	            <string>full-size-image</string>
+		    <key>url</key>
+		    <string>https://raw.githubusercontent.com/xuzongchao/hongyyue/master/icon2.png</string>
+		</dict>
             </array>  
             <key>metadata</key>  
             <dict>  
@@ -24,8 +53,8 @@
                 <string>software</string>  
                 <key>title</key>  
                 <string>红月2</string>  
-            </dict>
-	    </dict>	
+            </dict>  
+        </dict>  
     </array>  
 </dict>  
 </plist>
